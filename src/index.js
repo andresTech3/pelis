@@ -1,4 +1,4 @@
-const keyApi = "7c9ef28bca3f2dc2ed8b6a517cada404"; // Tu API key
+const keyApi = "7c9ef28bca3f2dc2ed8b6a517cada404";
 const imgElements = [
 	document.querySelector(".img1"),
 	document.querySelector(".img2"),
